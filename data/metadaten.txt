@@ -1,0 +1,11 @@
+Letzte Aktualisierung: 21.12.2021
+Mortalität, Rohe Rate in Deutschland pro 100.000 Einwohner
+Gewählte Filter:
+Altersgruppen: 0 - 85+
+Diagnose: Krebs gesamt (C00-C97 ohne C44)
+Geschlecht: männlich, weiblich
+Jahre: 1999 - 2019
+* : Keine sinnvolle Auswertung möglich aufgrund zu geringer Fallzahlen.
+x : Keine sinnvolle Kombination, beispielsweise bei einer geschlechtsspezifischen Diagnose.
+<5 : Es sind weniger als 5 Fälle registriert. Aus Datenschutzgründen wird die genaue Anzahl nicht publiziert.
+Zitierempfehlung: "Zentrum für Krebsregisterdaten im Robert Koch-Institut: Datenbankabfrage mit Schätzung der Inzidenz, Prävalenz und des Überlebens von Krebs in Deutschland auf Basis der epidemiologischen Landeskrebsregisterdaten (DOI: 10.18444/5.03.01.0005.0015.0002 [Inzidenz, Prävalenz]; DOI: 10.18444/5.03.01.0005.0014.0001 [Überleben]). Mortalitätsdaten bereitgestellt vom Statistischen Bundesamt. www.krebsdaten.de/abfrage, Letzte Aktualisierung: 16.03.2021, Abrufdatum: (Datum der Abfrage)"
