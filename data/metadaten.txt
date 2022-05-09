@@ -2,7 +2,7 @@ Letzte Aktualisierung: 21.12.2021
 Mortalität, Rohe Rate in Deutschland pro 100.000 Einwohner
 Gewählte Filter:
 Altersgruppen: 0 - 85+
-Diagnose: Krebs gesamt (C00-C97 ohne C44)
+Diagnose: Mundhöhle und Rachen (C00-C14), Verdauungsorgane (C15-C26), Atmungs- und Brustorgane (C30-C39), Knochen u. Gelenkknorpel (C40-C41), Malignes Melanom der Haut (C43), Weichteile u. mesotheliales Gewebe (C45-C49), Brustdrüse (C50), weibliche Geschlechtsorgane (C51-C58), männliche Geschlechtsorgane (C60-C63), Harnorgane (C64-C68), Auge, Gehirn u. Zentrales Nervensystem (C69-C72), Endokrine Drüsen (C73-C75), sonstg., ungenau u. n.bez. Lokalisationen (C76-C80), Morbus Hodgkin (C81), Non-Hodgkin-Lymphome (C82-C88), Multiples Myelom (C90), Leukämien (C91-C95)
 Geschlecht: männlich, weiblich
 Jahre: 1999 - 2019
 * : Keine sinnvolle Auswertung möglich aufgrund zu geringer Fallzahlen.
